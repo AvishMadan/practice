@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="210" started-at="2018-08-22T12:39:37Z" finished-at="2018-08-22T12:39:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="210" started-at="2018-08-22T12:39:37Z" finished-at="2018-08-22T12:39:38Z">
+      <class name="MyJenkins.NewJenkins.TestScript">
+        <test-method status="PASS" signature="avish()[pri:0, instance:MyJenkins.NewJenkins.TestScript@548a9f61]" name="avish" duration-ms="36" started-at="2018-08-22T18:09:37Z" finished-at="2018-08-22T18:09:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- avish -->
+      </class> <!-- MyJenkins.NewJenkins.TestScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
